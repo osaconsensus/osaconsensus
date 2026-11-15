@@ -19,7 +19,7 @@ OSAConsensus is a curated, uniformly reanalysed transcriptomic resource for obst
 - **CPAP** — treatment-cohort views, including where reversal does and does not hold
 - **Fidelity** — the cross-species comparison layer
 - **Scorer** — in-browser scoring tools
-- **Framework** — the ConsensusAudit claim-audit framework grown from this resource's production assets: https://osa.erbihou.org/framework.html (code: https://github.com/yuye8848/ConsensusAudit)
+- **Framework** — the ConsensusAudit claim-audit framework grown from this resource's production assets: https://osa.erbihou.org/framework.html (code: https://github.com/osaconsensus/ConsensusAudit)
 - **Downloads & methods** — the frozen result tables, the full pipeline, and known limitations stated in full
 
 ## Data availability
